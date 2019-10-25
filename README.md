@@ -23,7 +23,7 @@ sudo yum install gcc krb5-devel
 
 ### Libvirt
 ```
-sudo apt install pkg-config libvirt-dev
+sudo apt install libvirt-dev
 ```
 
 ## Actions
