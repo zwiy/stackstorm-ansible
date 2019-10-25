@@ -10,13 +10,20 @@ After [pack installation](http://docs.stackstorm.com/packs.html#getting-a-pack) 
 
 ## Requirements
 This pack installs Ansible from `pip` and therefore may require some OS-level packages to be in place.
+
+### Ansible
 Ubuntu:
 ```
-sudo apt-get install gcc libkrb5-dev
+sudo apt install gcc libkrb5-dev
 ```
 RHEL/CentOS:
 ```
 sudo yum install gcc krb5-devel
+```
+
+### Libvirt
+```
+sudo apt install pkg-config libvirt-dev
 ```
 
 ## Actions
