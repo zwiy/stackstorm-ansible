@@ -5,3 +5,4 @@ libvirt-python>=5.7.0
 git+https://github.com/CheckPointSW/cp_mgmt_api_python_sdk
 botocore>=1.13.10
 boto>=2.49.0
+boto3>=1.10.10
