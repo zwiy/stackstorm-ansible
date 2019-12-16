@@ -1,7 +1,8 @@
 [![Build Status](https://circleci.com/gh/StackStorm-Exchange/stackstorm-ansible.svg?style=shield)](https://circleci.com/gh/StackStorm-Exchange/stackstorm-ansible)
 
 # Additional Python Libraries
-- Libvirt Python SDK for the [virt](https://docs.ansible.com/ansible/latest/modules/virt_module.html#virt-module) ansible module
+- `libvirt-python`: Libvirt Python SDK for the [virt](https://docs.ansible.com/ansible/latest/modules/virt_module.html#virt-module) ansible module
+- `boto, boto3, botocore`: AWS S3 Storage libraries
 
 # <img src="http://www.ansible.com/favicon.ico" width="32px" valign="-3px"/> Ansible Integration Pack
 This pack provides [Ansible](http://www.ansible.com/) integration to perform remote operations on both local and remote machines.
