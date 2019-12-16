@@ -1,7 +1,6 @@
 [![Build Status](https://circleci.com/gh/StackStorm-Exchange/stackstorm-ansible.svg?style=shield)](https://circleci.com/gh/StackStorm-Exchange/stackstorm-ansible)
 
 # Additional Python Libraries
-- CheckPoint Python SDK [cp_mgmt_api_python_sdk](https://github.com/CheckPointSW/cp_mgmt_api_python_sdk) for the [cpAnsible](https://github.com/CheckPointSW/cpAnsible) module
 - Libvirt Python SDK for the [virt](https://docs.ansible.com/ansible/latest/modules/virt_module.html#virt-module) ansible module
 
 # <img src="http://www.ansible.com/favicon.ico" width="32px" valign="-3px"/> Ansible Integration Pack
